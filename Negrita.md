@@ -14,7 +14,7 @@ Para hacer negrita en un texto agregá dos asteríscos entre la palabra/s con ne
   </thead>
   <tbody>
     <tr>
-        <td>Negrita</td>
+        <td>Código</td>
         <td><code>Texto en **negrita**</code></td>
         <td><code>Texto en &lt;strong&gt;negrita&lt;/strong&gt;</code></td>
         <td>Texto en <strong>negrita</strong>. </td>
