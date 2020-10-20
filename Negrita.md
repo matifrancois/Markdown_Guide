@@ -1,4 +1,4 @@
-## Negrita:
+# Negrita:
 
 Para hacer negrita en un texto agregá dos asteríscos entre la palabra/s con negrita.
 
