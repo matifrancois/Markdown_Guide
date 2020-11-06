@@ -1,27 +1,10 @@
+# Titulos
+
 Para Crear Titulos se deben agregar # al inicio de la frase a marcar como título. Segun el número de # es la importancia del título, mientra menos # mas importante es, con límite obvio en 1 que es el más importamte.
 
 Esto se corresponde con el número de tags que se utilizan para HTML, esto es h3 es equivalente a ###.
 
-<table>
-  <thead>
-    <tr>
-        <th>Deseado</th>
-        <th>Markdown</th>
-        <th>HTML</th>
-        <th>Salida</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Negrita e Itálica</td>
-        <td><code>Texto en ***negrita***</code></td>
-        <td><code>Texto en &lt;em&gt;&lt;strong&gt;negrita&lt;/strong&gt;&lt;/em&gt;</code></td>
-        <td>Texto en <em><strong>negrita</strong></em>. </td>
-    </tr>
-  </tbody>
-</table>
-
-
+<br>
 
 <table>
   <thead>
