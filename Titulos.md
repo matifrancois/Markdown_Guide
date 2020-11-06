@@ -119,3 +119,27 @@ Esto se corresponde con el número de tags que se utilizan para HTML, esto es h3
     </tr>
   </tbody>
 </table>
+
+
+## Otra forma de hacerlo:
+
+Otra manera de hacer estos títulos se puede lograr con = o - luego de la frase a titular, esto es:
+
+Heading level 1<br/>===============
+
+que es igual a 
+
+Heading level 1
+===============
+
+
+y tambien:
+
+Heading level 2<br/>---------------
+
+que es igual a 
+
+Heading level 1
+---------------
+
+Pero son expresiones no tan comunes, lo mas comun es utilizar # o en su defecto la notacion proveniente de html.
