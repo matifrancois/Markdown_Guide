@@ -1,3 +1,8 @@
+---
+title:  Código
+author: Matías Francois
+---
+
 # Código:
 
 Para mostrar el texto como código encerrarlo entre (`)

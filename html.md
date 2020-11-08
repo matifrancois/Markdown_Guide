@@ -1,3 +1,9 @@
+---
+title: HTML
+author: Matías Francois
+---
+
+
 # HTML
 
 Puedes utilizar html en tu codigo markdown si te resulta mas sencillo de esta manera, se suele utilizr para imagenes por ejemplo o cuando necesitas cambiar los atributos del elemento como darle un color especifico a un texto, cambiarle el tamaño a una imagen, etc.

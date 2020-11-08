@@ -1,3 +1,8 @@
+---
+title: Italica
+author: Matías Francois
+---
+
 # Italica:
 
 Para usar italica podes encerrar el texto entre *

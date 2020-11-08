@@ -1,3 +1,8 @@
+---
+title:  Bloques de Texto
+author: Matías Francois
+---
+
 # Bloques de Texto (Blockquotes)
 
 Para crear un bloque con texto (cita en bloque o blockquote), se debe añadir `>` al principio del párrafo que se desea remarcar, por ejemplo:

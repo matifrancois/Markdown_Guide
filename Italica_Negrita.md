@@ -1,3 +1,9 @@
+---
+title: Negrita e Italica
+author: Matías Francois
+---
+
+
 # Negrita e Italica:
 
 Para hacer negrita e itálica en un texto agregar 3 asteríscos entre la/s palabra/s con negrita e itálica.

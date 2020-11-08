@@ -1,3 +1,8 @@
+---
+title:  Caracteres especiales
+author: Matías Francois
+---
+
 # Caracteres especiales:
 
 Existen diferentes caracteres especiales que si se quieren utilizar se han de escribir con un \ antes del caracter especial en cuestión.

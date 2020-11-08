@@ -1,3 +1,8 @@
+---
+title: Titulos
+author: Matías Francois
+---
+
 # Titulos
 
 Para Crear Titulos se deben agregar # al inicio de la frase a marcar como título. Segun el número de # es la importancia del título, mientra menos # mas importante es, con límite obvio en 1 que es el más importamte.
